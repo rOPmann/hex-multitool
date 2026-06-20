@@ -79,7 +79,3 @@ python main.py
 This tool is intended for educational and personal use only.
 The developer is not responsible for any misuse.
 
----
-
-🔥 oder ein ASCII Logo für dein Hex Tool bauen
-🔥 oder dein Repo so machen, dass es wie ein „pro cyber tool“ aussieht 😄
