@@ -1,0 +1,9 @@
+pystyle
+py-cpuinfo
+GPUtil
+qrcode[pil]
+Pillow
+phonenumbers
+python-whois
+requests
+pyperclip
