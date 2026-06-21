@@ -1,4 +1,4 @@
 {
-  "loading_screen": false,
-  "color_scheme": "green_to_cyan"
+  "loading_screen": true,
+  "color_scheme": "red_to_white"
 }
