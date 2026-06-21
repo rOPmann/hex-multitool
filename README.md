@@ -1,6 +1,6 @@
-# HEX Tool
+# Hex Multitool
 
-A simple Python-based terminal framework with multiple utilities and tools.
+A simple Python-based terminal user interface tool with multiple utilities and tools.
 
 ---
 
